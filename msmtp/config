@@ -1,0 +1,11 @@
+account YousufSaSyed@icloud.com
+host smtp.mail.me.com
+port 465
+from YousufSaSyed@icloud.com
+user YousufSaSyed@icloud.com
+passwordeval "pass YousufSaSyed@icloud.com"
+auth on
+tls on
+tls_trust_file	/etc/ssl/cert.pem
+logfile /Users/yousuf/.local/state/msmtp/msmtp.log
+tls_starttls off

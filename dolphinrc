@@ -1,0 +1,18 @@
+[DetailsMode]
+PreviewSize=22
+
+[General]
+GlobalViewProps=false
+OpenExternallyCalledFolderInNewTab=true
+Version=202
+ViewPropsTimestamp=2025,6,14,16,58,43.153
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail

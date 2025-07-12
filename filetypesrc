@@ -1,0 +1,7 @@
+[EmbedSettings]
+embed-application/octet-stream=false
+embed-application/vnd.adobe.flash.movie=false
+embed-application/x-shellscript=false
+embed-image/png=false
+embed-text/html=false
+embed-text/plain=false

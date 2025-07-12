@@ -1,0 +1,11 @@
+[Unit]
+Description=espanso
+
+[Service]
+ExecStart=/run/wrappers/bin/espanso-wayland launcher 
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=default.target
+
